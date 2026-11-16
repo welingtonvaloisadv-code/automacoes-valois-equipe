@@ -1,0 +1,18 @@
+% MODELO PROVISORIO - substituir pelo modelo real do escritorio (ver LEIA-ME.md)
+# PROCURAÇÃO
+
+**OUTORGANTE:** {{qualificacao_cliente}}.
+
+**OUTORGADOS:** {{outorgados}}, integrantes de {{escritorio_razao_social}}, inscrita no CNPJ sob o nº {{escritorio_cnpj}}, com endereço profissional na {{escritorio_endereco}}, onde recebem intimações.
+
+**PODERES:** pelo presente instrumento, o(a) OUTORGANTE nomeia e constitui seus bastantes procuradores os OUTORGADOS, aos quais confere os poderes da cláusula ad judicia et extra, para o foro em geral, em qualquer juízo, instância ou tribunal, podendo propor as ações competentes e defendê-lo(a) nas contrárias, seguindo umas e outras até final decisão, usando os recursos legais e acompanhando-os, conferindo-lhes ainda poderes especiais para receber citação, confessar, reconhecer a procedência do pedido, transigir, desistir, renunciar ao direito sobre o qual se funda a ação, receber, dar quitação, firmar compromisso e assinar declaração de hipossuficiência econômica (art. 105 do CPC), bem como substabelecer, com ou sem reserva de poderes.
+
+{{poderes_area}}
+
+**FINALIDADE:** {{tipo_acao}}.
+
+>> {{local_data}}
+
+>> ______________________________________________
+>> **{{nome}}**
+>> OUTORGANTE

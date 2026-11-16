@@ -1,0 +1,12 @@
+% MODELO PROVISORIO - substituir pelo modelo real do escritorio (ver LEIA-ME.md)
+# DECLARAÇÃO DE HIPOSSUFICIÊNCIA ECONÔMICA
+
+{{qualificacao_cliente}}, **DECLARA**, para os fins do art. 99, § 3º, do Código de Processo Civil e da Lei nº 7.115/1983, que não possui condições de arcar com as custas e despesas processuais e com os honorários advocatícios sem prejuízo do próprio sustento e do de sua família, razão pela qual requer os benefícios da gratuidade da justiça.
+
+Declara, ainda, estar ciente de que a falsidade desta declaração o(a) sujeita às sanções civis, administrativas e criminais previstas em lei.
+
+>> {{local_data}}
+
+>> ______________________________________________
+>> **{{nome}}**
+>> DECLARANTE

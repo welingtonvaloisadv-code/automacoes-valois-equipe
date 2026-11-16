@@ -1,0 +1,18 @@
+{
+  "mcpServers": {
+    "atendedireito-sync": {
+      "type": "http",
+      "url": "https://api.sync.atendedireito.app/mcp",
+      "headers": {
+        "Authorization": "Bearer ${ATENDEDIREITO_SYNC_TOKEN}"
+      }
+    },
+    "infinitum": {
+      "type": "http",
+      "url": "https://public.infinitum.app.br/mcp",
+      "headers": {
+        "Authorization": "Bearer ${INFINITUM_PUBLIC_TOKEN}"
+      }
+    }
+  }
+}

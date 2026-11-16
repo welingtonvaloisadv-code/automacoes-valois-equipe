@@ -1,0 +1,2 @@
+% MODELO PROVISORIO
+O presente contrato tem por objeto a prestação de serviços advocatícios ao(à) CONTRATANTE na seguinte demanda criminal: {{tipo_acao}}{{?referencia_processo}}, compreendendo a atuação na fase de investigação e/ou no processo em primeira instância, conforme a fase em que o caso se encontra na data da assinatura.

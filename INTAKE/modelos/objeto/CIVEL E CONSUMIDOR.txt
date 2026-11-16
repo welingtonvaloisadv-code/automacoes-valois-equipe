@@ -1,0 +1,2 @@
+% MODELO PROVISORIO
+O presente contrato tem por objeto a prestação de serviços advocatícios ao(à) CONTRATANTE na seguinte demanda cível/de consumo: {{tipo_acao}}{{?referencia_parte_contraria}}, compreendendo a tentativa de solução extrajudicial e, se necessário, a ação judicial cabível em primeira instância (Juizado Especial ou Vara Cível).

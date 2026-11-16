@@ -1,0 +1,2 @@
+% MODELO PROVISORIO
+O presente contrato tem por objeto a prestação de serviços advocatícios ao(à) CONTRATANTE na seguinte demanda de família e sucessões: {{tipo_acao}}{{?referencia_parte_contraria}}, pela via judicial ou extrajudicial (cartório), conforme se mostrar cabível, até a sentença ou a lavratura da escritura.

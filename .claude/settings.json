@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(PYTHONIOENCODING=utf-8 python INTEGRACOES/google_setup.py)",
+      "Bash(echo \"exit=$?\")",
+      "Bash(PYTHONIOENCODING=utf-8 python -c ' *)",
+      "Bash(where gcloud *)",
+      "Bash(python OPERACIONAL/kpis_advbox.py)",
+      "PowerShell(& \"C:\\\\Users\\\\Weliton\\\\AppData\\\\Local\\\\Temp\\\\claude\\\\c--AUTOMA--ES-automacoes-valois\\\\d6c9cddc-fb5a-4ed7-ba2d-c3ed4cdad5ce\\\\scratchpad\\\\reclassificar.ps1\" -dir \"C:\\\\AUTOMA��ES\\\\automacoes-valois\\\\SAIDA\\\\mapa_pecas\")",
+      "Bash(PYTHONIOENCODING=utf-8 PYTHONUNBUFFERED=1 python -u INTEGRACOES/google_setup.py)",
+      "PowerShell(Get-NetTCPConnection -OwningProcess 17260 -State Listen -ErrorAction SilentlyContinue)",
+      "Bash(python OPERACIONAL/revisar_encerrados.py)",
+      "Bash(sed -i \"s|^sys.stdout = io.TextIOWrapper\\(sys.stdout.buffer, encoding='utf-8'\\)|sys.stdout.reconfigure\\(encoding='utf-8'\\)|\" OPERACIONAL/kpis_advbox.py OPERACIONAL/revisar_encerrados.py)",
+      "Bash(sed -i 's/            if tentativa < retries and resp.status_code >= 500:/            if tentativa <= retries and resp.status_code >= 500:/; s/            if tentativa < retries:$/            if tentativa <= retries:/' INTEGRACOES/advbox_integration.py)"
+    ]
+  }
+}

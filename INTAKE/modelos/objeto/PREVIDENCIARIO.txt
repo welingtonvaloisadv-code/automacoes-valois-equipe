@@ -1,0 +1,2 @@
+% MODELO PROVISORIO
+O presente contrato tem por objeto a prestação de serviços advocatícios ao(à) CONTRATANTE para requerer, perante o Instituto Nacional do Seguro Social – INSS e, se necessário, perante o Poder Judiciário, o benefício de {{tipo_acao}}, compreendendo o requerimento ou recurso administrativo, a ação judicial cabível em primeira instância e o acompanhamento dos recursos ordinários dela decorrentes.

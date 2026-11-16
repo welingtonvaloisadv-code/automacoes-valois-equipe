@@ -1,0 +1,37 @@
+% Ficha do cliente - DOCUMENTO GUIA (interno, nao vai para o cliente).
+# FICHA DO CLIENTE
+
+## I – IDENTIFICAÇÃO
+
+**Cliente:** {{nome}}
+**CPF:** {{cpf}} | **RG:** {{rg}} | **Nascimento:** {{data_nascimento}}
+**Estado civil:** {{estado_civil}} | **Profissão:** {{profissao}} | **Nacionalidade:** {{nacionalidade}}
+**Endereço:** {{endereco_completo}}
+**WhatsApp:** {{telefone}} | **E-mail:** {{?email}}
+**Indicação / origem:** {{?indicante}} {{?origem}}
+
+## II – O CASO
+
+**Área:** {{area}} | **Responsável pela revisão:** {{responsavel_revisao}}
+**Demanda:** {{tipo_acao}}
+**Parte contrária:** {{?parte_contraria}}
+**Data da reunião:** {{data_reuniao}} | **Unidade:** {{cidade_unidade}}
+{{?urgencia}}
+
+## III – DADOS ESPECÍFICOS DA ÁREA
+
+{{dados_area}}
+
+## IV – ANÁLISE TÉCNICA (IA – CONFERIR)
+
+{{resumo_fatos}}
+
+## V – DOCUMENTOS A PROVIDENCIAR
+
+{{documentos_necessarios}}
+
+## VI – PENDÊNCIAS ANTES DO ENVIO PARA ASSINATURA
+
+{{pendencias}}
+
+>> PRONTA PARA REVISÃO DO(A) DR(A). {{responsavel_revisao_maiusculo}}

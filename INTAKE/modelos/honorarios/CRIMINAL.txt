@@ -1,0 +1,2 @@
+% MODELO PROVISORIO
+Pelos serviços prestados, o(a) CONTRATANTE pagará à CONTRATADA honorários no valor de {{honorarios_valor}}, com pagamento {{honorarios_pagamento}}.

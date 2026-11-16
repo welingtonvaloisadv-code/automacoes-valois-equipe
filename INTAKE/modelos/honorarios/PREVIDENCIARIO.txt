@@ -1,0 +1,4 @@
+% MODELO PROVISORIO - previdenciario e no exito (CLAUDE.md): parcelas fixas apos a concessao.
+Pelos serviços prestados, o(a) CONTRATANTE pagará à CONTRATADA honorários **exclusivamente em caso de êxito**, assim entendida a concessão ou o restabelecimento do benefício, na via administrativa ou judicial, no valor de {{honorarios_valor}}, com pagamento {{honorarios_pagamento}}.
+
+Parágrafo único. Não havendo concessão do benefício, nada será devido a título de honorários contratuais.
